@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="zeniri.png" alt="Zeniri Logo" width="300"/>
+  <img src="Zeniri.png" alt="Zeniri Logo" width="300"/>
 </p>
 
 # Zeniri Crypto Payment Gateway
